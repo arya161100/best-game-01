@@ -1,0 +1,1 @@
+$(cat /workspace/artifacts/best-game/main.ts)
